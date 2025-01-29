@@ -1,6 +1,6 @@
 .DS_Store
 venv/
-
+local-cdn
 src/db.sqlite3
 src/cphome/__pycache__/
 # Byte-compiled / optimized / DLL files

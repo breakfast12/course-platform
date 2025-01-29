@@ -1,5 +1,8 @@
 .DS_Store
 venv/
+
+src/db.sqlite3
+src/cphome/__pycache__/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
